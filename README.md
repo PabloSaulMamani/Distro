@@ -1,2 +1,2 @@
 # Distro
-Trabajos personales de mi trabajo
+Trabajos personales
